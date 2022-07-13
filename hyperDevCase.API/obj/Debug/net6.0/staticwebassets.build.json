@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5D3JmMt4UP0tcFY1NXL6xfaYeMbTRWxHmJnMdzXTATM=",
+  "Source": "hyperDevCase.API",
+  "BasePath": "_content/hyperDevCase.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

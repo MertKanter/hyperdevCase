@@ -1,0 +1,17 @@
+C:\Users\Mert Kanter\Desktop\hyperdevCase\hyperdevCase\hyperdevCase.DataAccess\bin\Debug\net6.0\hyperdevCase.DataAccess.deps.json
+C:\Users\Mert Kanter\Desktop\hyperdevCase\hyperdevCase\hyperdevCase.DataAccess\bin\Debug\net6.0\hyperdevCase.DataAccess.runtimeconfig.json
+C:\Users\Mert Kanter\Desktop\hyperdevCase\hyperdevCase\hyperdevCase.DataAccess\bin\Debug\net6.0\hyperdevCase.DataAccess.dll
+C:\Users\Mert Kanter\Desktop\hyperdevCase\hyperdevCase\hyperdevCase.DataAccess\bin\Debug\net6.0\hyperdevCase.DataAccess.pdb
+C:\Users\Mert Kanter\Desktop\hyperdevCase\hyperdevCase\hyperdevCase.DataAccess\bin\Debug\net6.0\hyperdevCase.Entities.dll
+C:\Users\Mert Kanter\Desktop\hyperdevCase\hyperdevCase\hyperdevCase.DataAccess\bin\Debug\net6.0\hyperdevCase.Entities.pdb
+C:\Users\Mert Kanter\Desktop\hyperdevCase\hyperdevCase\hyperdevCase.DataAccess\obj\Debug\net6.0\hyperdevCase.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Mert Kanter\Desktop\hyperdevCase\hyperdevCase\hyperdevCase.DataAccess\obj\Debug\net6.0\hyperdevCase.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert Kanter\Desktop\hyperdevCase\hyperdevCase\hyperdevCase.DataAccess\obj\Debug\net6.0\hyperdevCase.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Mert Kanter\Desktop\hyperdevCase\hyperdevCase\hyperdevCase.DataAccess\obj\Debug\net6.0\hyperdevCase.DataAccess.AssemblyInfo.cs
+C:\Users\Mert Kanter\Desktop\hyperdevCase\hyperdevCase\hyperdevCase.DataAccess\obj\Debug\net6.0\hyperdevCase.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Mert Kanter\Desktop\hyperdevCase\hyperdevCase\hyperdevCase.DataAccess\obj\Debug\net6.0\hyperdevCase.DataAccess.csproj.CopyComplete
+C:\Users\Mert Kanter\Desktop\hyperdevCase\hyperdevCase\hyperdevCase.DataAccess\obj\Debug\net6.0\hyperdevCase.DataAccess.dll
+C:\Users\Mert Kanter\Desktop\hyperdevCase\hyperdevCase\hyperdevCase.DataAccess\obj\Debug\net6.0\refint\hyperdevCase.DataAccess.dll
+C:\Users\Mert Kanter\Desktop\hyperdevCase\hyperdevCase\hyperdevCase.DataAccess\obj\Debug\net6.0\hyperdevCase.DataAccess.pdb
+C:\Users\Mert Kanter\Desktop\hyperdevCase\hyperdevCase\hyperdevCase.DataAccess\obj\Debug\net6.0\hyperdevCase.DataAccess.genruntimeconfig.cache
+C:\Users\Mert Kanter\Desktop\hyperdevCase\hyperdevCase\hyperdevCase.DataAccess\obj\Debug\net6.0\ref\hyperdevCase.DataAccess.dll

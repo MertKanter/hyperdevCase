@@ -1,0 +1,12 @@
+C:\Users\Mert Kanter\Desktop\hyperdevCase\hyperdevCase\hyperdevCase.Entities\bin\Debug\net6.0\hyperdevCase.Entities.deps.json
+C:\Users\Mert Kanter\Desktop\hyperdevCase\hyperdevCase\hyperdevCase.Entities\bin\Debug\net6.0\hyperdevCase.Entities.dll
+C:\Users\Mert Kanter\Desktop\hyperdevCase\hyperdevCase\hyperdevCase.Entities\bin\Debug\net6.0\hyperdevCase.Entities.pdb
+C:\Users\Mert Kanter\Desktop\hyperdevCase\hyperdevCase\hyperdevCase.Entities\obj\Debug\net6.0\hyperdevCase.Entities.csproj.AssemblyReference.cache
+C:\Users\Mert Kanter\Desktop\hyperdevCase\hyperdevCase\hyperdevCase.Entities\obj\Debug\net6.0\hyperdevCase.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert Kanter\Desktop\hyperdevCase\hyperdevCase\hyperdevCase.Entities\obj\Debug\net6.0\hyperdevCase.Entities.AssemblyInfoInputs.cache
+C:\Users\Mert Kanter\Desktop\hyperdevCase\hyperdevCase\hyperdevCase.Entities\obj\Debug\net6.0\hyperdevCase.Entities.AssemblyInfo.cs
+C:\Users\Mert Kanter\Desktop\hyperdevCase\hyperdevCase\hyperdevCase.Entities\obj\Debug\net6.0\hyperdevCase.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Mert Kanter\Desktop\hyperdevCase\hyperdevCase\hyperdevCase.Entities\obj\Debug\net6.0\hyperdevCase.Entities.dll
+C:\Users\Mert Kanter\Desktop\hyperdevCase\hyperdevCase\hyperdevCase.Entities\obj\Debug\net6.0\refint\hyperdevCase.Entities.dll
+C:\Users\Mert Kanter\Desktop\hyperdevCase\hyperdevCase\hyperdevCase.Entities\obj\Debug\net6.0\hyperdevCase.Entities.pdb
+C:\Users\Mert Kanter\Desktop\hyperdevCase\hyperdevCase\hyperdevCase.Entities\obj\Debug\net6.0\ref\hyperdevCase.Entities.dll

@@ -1,0 +1,17 @@
+C:\Users\Mert Kanter\Desktop\hyperdevCase\hyperdevCase\hyperDevCase.Business\bin\Debug\net6.0\hyperDevCase.Business.deps.json
+C:\Users\Mert Kanter\Desktop\hyperdevCase\hyperdevCase\hyperDevCase.Business\bin\Debug\net6.0\hyperDevCase.Business.dll
+C:\Users\Mert Kanter\Desktop\hyperdevCase\hyperdevCase\hyperDevCase.Business\bin\Debug\net6.0\hyperDevCase.Business.pdb
+C:\Users\Mert Kanter\Desktop\hyperdevCase\hyperdevCase\hyperDevCase.Business\bin\Debug\net6.0\hyperdevCase.DataAccess.dll
+C:\Users\Mert Kanter\Desktop\hyperdevCase\hyperdevCase\hyperDevCase.Business\bin\Debug\net6.0\hyperdevCase.Entities.dll
+C:\Users\Mert Kanter\Desktop\hyperdevCase\hyperdevCase\hyperDevCase.Business\bin\Debug\net6.0\hyperdevCase.DataAccess.pdb
+C:\Users\Mert Kanter\Desktop\hyperdevCase\hyperdevCase\hyperDevCase.Business\bin\Debug\net6.0\hyperdevCase.Entities.pdb
+C:\Users\Mert Kanter\Desktop\hyperdevCase\hyperdevCase\hyperDevCase.Business\obj\Debug\net6.0\hyperDevCase.Business.csproj.AssemblyReference.cache
+C:\Users\Mert Kanter\Desktop\hyperdevCase\hyperdevCase\hyperDevCase.Business\obj\Debug\net6.0\hyperDevCase.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert Kanter\Desktop\hyperdevCase\hyperdevCase\hyperDevCase.Business\obj\Debug\net6.0\hyperDevCase.Business.AssemblyInfoInputs.cache
+C:\Users\Mert Kanter\Desktop\hyperdevCase\hyperdevCase\hyperDevCase.Business\obj\Debug\net6.0\hyperDevCase.Business.AssemblyInfo.cs
+C:\Users\Mert Kanter\Desktop\hyperdevCase\hyperdevCase\hyperDevCase.Business\obj\Debug\net6.0\hyperDevCase.Business.csproj.CoreCompileInputs.cache
+C:\Users\Mert Kanter\Desktop\hyperdevCase\hyperdevCase\hyperDevCase.Business\obj\Debug\net6.0\hyperDevCase.Business.csproj.CopyComplete
+C:\Users\Mert Kanter\Desktop\hyperdevCase\hyperdevCase\hyperDevCase.Business\obj\Debug\net6.0\hyperDevCase.Business.dll
+C:\Users\Mert Kanter\Desktop\hyperdevCase\hyperdevCase\hyperDevCase.Business\obj\Debug\net6.0\refint\hyperDevCase.Business.dll
+C:\Users\Mert Kanter\Desktop\hyperdevCase\hyperdevCase\hyperDevCase.Business\obj\Debug\net6.0\hyperDevCase.Business.pdb
+C:\Users\Mert Kanter\Desktop\hyperdevCase\hyperdevCase\hyperDevCase.Business\obj\Debug\net6.0\ref\hyperDevCase.Business.dll
